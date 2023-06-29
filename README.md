@@ -1,5 +1,3 @@
-### Hi
+This is my work account for Paramount+
 
-This is my work account.
-
-My personal account can be found [here](https://github.com/icahoon)
+My personal account can be found [here](https://github.com/icahoon).
